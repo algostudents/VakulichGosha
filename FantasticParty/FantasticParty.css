@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+border:3px solid Olive ;
+border-radius: 20px;
+padding:5px;
+
+}
+
+header a{
+    text-decoration: none;
+    border: 1px solid gold;
+    background-color:Maroon ;
+    color:LimeGreen ;
+    border-radius:5px ;
+    padding: 3px;
+
+}
+h1{
+    color:DarkGoldenRod ;
+    text-align:center ;
+    font-family:inherit ;
+    border: 3px solid Moccasin;
+    border-radius: 20px;
+}
+
+footer{
+    background-color: DarkTurquoise;
+    border: 5px;
+    padding: 10px;
+}
+footer p{ 
+    background-color:Beige;
+    padding:5px;
+    border: 2px solid SaddleBrown;
+    border-radius: 20px ;
+}
+ 
+nav {
+text-align: center;
+margin: 20px;
+
+
+}
+
+nav a{
+text-decoration:none;
+margin: 30px;
+ border:3px solid AntiqueWhite;
+ border-radius:10px
+  padding 5px;
+  background-color: Tan;
+  color: DarkViolet;
+}
+.when{
+ background-color:GreenYellow;
+
+
+
+}
